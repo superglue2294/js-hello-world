@@ -4,7 +4,27 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!");
+// 1.
+console.log("Change the message that is printed.");
+// 2.
+/* The parentheses are to contain the parameters for the method `log`. The code will NOT work without them. */
+// 3. 
+/* Yes, we need to include both the opening and closing quotation marks. There are no difference between `'` or `"`, but the pair should be the same. */ 
+// 4. 
+console.log("This line of code will still print without the semicolon.")
+// 5. 
+console.log(3);
+console.log(3+4);
+// 6. 
+console.log("Multiple");
+console.log("messages");
+// 7. 
+console.log("multiple messages"); console.log("on the same line");
+// 8.
+console.log('Qouth the Raven "Nevermore".');
+// 9.
+console.log(3+"3" + " = 33");
 
 /*  
 Next, PLAY! 
